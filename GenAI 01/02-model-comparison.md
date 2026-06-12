@@ -12,12 +12,13 @@
 ## STEP 0 — 재현성 메타 (실행 그 순간 기록)
 | 항목 | Gemini | GPT | Claude |
 |------|------|------|------|
-| 정확한 모델명(화면 기준) | Gemini 3.5 Pro | GPT-5.5 | Claude 3.7 Sonnet |
-| 사고 수준 | Extended | Thinking 확장 | High |
-| 요금제 | 구독 | 구독 | 구독 |
-| 채널 | 웹(Temporary) | 웹(Temporary) | 웹(Incognito) |
-| 사용 날짜(YYYY-MM-DD) | 2026-06-04 | 2026-06-04 | 2026-06-04 |
+| 정확한 모델명(화면 기준) | Gemini 3.5 Pro | GPT-5.5 | Claude 4.8 Opus | Claude 5 Fable |
+| 사고 수준 | Extended | Thinking 확장 | High | High |
+| 요금제 | 구독 | 구독 | 구독 | 구독 |
+| 채널 | 웹(Temporary) | 웹(Temporary) | 웹(Incognito) | 웹(Incognito) |
+| 사용 날짜(YYYY-MM-DD) | 2026-06-13 | 2026-06-13 | 2026-06-13 |
 | 비고 |  |  | 메모리 비활성 |
+* Claude Fable의 경우 지나친 크레딧 사용량과 6월 22일 이후 정책 변경(추가 크레딧으로만 이용 가능)으로 인해 실험용으로 사용
 
 ## STEP 0.5 — 프로젝트 브리핑 입력
 세 모델 각 임시 세션 맨 처음에 [`00-project-brief.md`](./00-project-brief.md)를 통째로 붙여넣어 동일한 배경을 학습시킨다. (이해도 자체도 관찰 — 브리핑 후 "이 프로젝트를 한 문장으로 요약해줘"로 가볍게 확인 가능)
